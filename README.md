@@ -41,17 +41,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SiddArts-new&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
----
-
-### 🔥 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=tokyo-night" />
-</p>
-
----
 
 ### 🏆 Achievements
 
