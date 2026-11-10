@@ -11,7 +11,7 @@
 
 ###  About Me
 
- -BCA graduate Integral University   
+ -Graduate from Integral University   
  -Passionate about **UI/UX**, **AI tools**, and **design thinking**  
  -Finalist in Frontend Hackathon 2025  
  -Built a real-time object detection dashboard using **YOLOv8** & **Python**
